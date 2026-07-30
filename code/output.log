@@ -1,0 +1,20 @@
+--- MODELS: Loading Model stabilityai/stable-diffusion-xl-base-1.0 ---
+--- MODELS: Configuring Pipe ---
+--- MODELS: Model is ready for inference ---
+http://localhost:8000
+IMPORTANT: You are using gradio version 4.35.0, however version 4.44.1 is available, please upgrade.
+--------
+Running on local URL:  http://0.0.0.0:8080
+
+To create a public link, set `share=True` in `launch()`.
+--- IMAGES: Creating Image Directory ---
+--- IMAGES: Image is generating... ---
+--- IMAGES: Created Image 'generated_image-0.png' ---
+--- IMAGES: Image is generating... ---
+--- IMAGES: Created Image 'generated_image-1.png' ---
+--- SETTINGS: Hiding Settings ---
+--- SETTINGS: Expanding Settings ---
+--- IMAGES: Image is generating... ---
+--- IMAGES: Created Image 'generated_image-2.png' ---
+--- IMAGES: Image is generating... ---
+--- IMAGES: Created Image 'generated_image-3.png' ---
